@@ -1,0 +1,18 @@
+{
+  "name": "bompzz/tienda-online",
+  "description": "Creacion de una tienda online",
+  "type": "proyect",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Christopher Uriel Tafolla Brambila",
+      "email": "alucard_979@outlook.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "bompzz\\": "src/"
+    }
+  }
+}
